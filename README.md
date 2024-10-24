@@ -1,6 +1,8 @@
 ## 你好 everyone 👋
 
-
+<p align="justify">
+欢迎来到我的GitHub页面。我是李硕，现在是计算机工程专业的学生，我学习编程的新知识，用于不断地提升自己，并将这些知识传授给他人，使用了许多语言和技术。此外，在我的博客园中，我有一个名为<a href="https://www.cnblogs.com/LSChina">LSChina</a>的博客，分享我所学到的关于编程的一切。
+</p>
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -56,9 +58,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 </div>
 <p></p>
-<p align="justify">
-欢迎来到我的GitHub页面。我是李硕，现在是计算机工程专业的学生，我学习编程的新知识，用于不断地提升自己，并将这些知识传授给他人，使用了许多语言和技术。此外，在我的博客园中，我有一个名为<a href="https://www.cnblogs.com/LSChina">LSChina</a>的博客，分享我所学到的关于编程的一切。
-</p>
 
 ## My favorite tools and technologies ⚙️
 
